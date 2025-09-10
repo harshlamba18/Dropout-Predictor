@@ -1,0 +1,162 @@
+[
+  {
+    "id": "M001",
+    "name": "Aarav Sharma",
+    "email": "aarav.sharma@example.com",
+    "department": "Computer Science",
+    "year": "3rd",
+    "skills": ["C++", "Data Structures", "Algorithms"]
+  },
+  {
+    "id": "M002",
+    "name": "Ishita Verma",
+    "email": "ishita.verma@example.com",
+    "department": "Electrical Engineering",
+    "year": "4th",
+    "skills": ["Circuits", "MATLAB", "Embedded Systems"]
+  },
+  {
+    "id": "M003",
+    "name": "Rohan Mehta",
+    "email": "rohan.mehta@example.com",
+    "department": "Mechanical Engineering",
+    "year": "3rd",
+    "skills": ["AutoCAD", "Thermodynamics", "Robotics"]
+  },
+  {
+    "id": "M004",
+    "name": "Sneha Nair",
+    "email": "sneha.nair@example.com",
+    "department": "Civil Engineering",
+    "year": "4th",
+    "skills": ["Structural Design", "AutoCAD", "Surveying"]
+  },
+  {
+    "id": "M005",
+    "name": "Kunal Das",
+    "email": "kunal.das@example.com",
+    "department": "Computer Science",
+    "year": "2nd",
+    "skills": ["Python", "Machine Learning", "Web Development"]
+  },
+  {
+    "id": "M006",
+    "name": "Priya Kapoor",
+    "email": "priya.kapoor@example.com",
+    "department": "Biotechnology",
+    "year": "3rd",
+    "skills": ["Genetics", "Bioinformatics", "Molecular Biology"]
+  },
+  {
+    "id": "M007",
+    "name": "Aditya Rao",
+    "email": "aditya.rao@example.com",
+    "department": "Electronics Engineering",
+    "year": "4th",
+    "skills": ["VLSI", "Microprocessors", "IoT"]
+  },
+  {
+    "id": "M008",
+    "name": "Neha Gupta",
+    "email": "neha.gupta@example.com",
+    "department": "Information Technology",
+    "year": "3rd",
+    "skills": ["Java", "Cloud Computing", "Cybersecurity"]
+  },
+  {
+    "id": "M009",
+    "name": "Rahul Singh",
+    "email": "rahul.singh@example.com",
+    "department": "Aerospace Engineering",
+    "year": "4th",
+    "skills": ["Aerodynamics", "CFD", "Propulsion"]
+  },
+  {
+    "id": "M010",
+    "name": "Simran Kaur",
+    "email": "simran.kaur@example.com",
+    "department": "Computer Science",
+    "year": "3rd",
+    "skills": ["UI/UX Design", "React", "Databases"]
+  },
+  {
+    "id": "M011",
+    "name": "Vikram Joshi",
+    "email": "vikram.joshi@example.com",
+    "department": "Mechanical Engineering",
+    "year": "2nd",
+    "skills": ["CAD", "3D Printing", "Dynamics"]
+  },
+  {
+    "id": "M012",
+    "name": "Pooja Reddy",
+    "email": "pooja.reddy@example.com",
+    "department": "Electronics Engineering",
+    "year": "3rd",
+    "skills": ["Signal Processing", "PCB Design", "IoT"]
+  },
+  {
+    "id": "M013",
+    "name": "Arjun Malhotra",
+    "email": "arjun.malhotra@example.com",
+    "department": "Civil Engineering",
+    "year": "4th",
+    "skills": ["Construction Management", "Surveying", "GIS"]
+  },
+  {
+    "id": "M014",
+    "name": "Tanvi Agarwal",
+    "email": "tanvi.agarwal@example.com",
+    "department": "Computer Science",
+    "year": "3rd",
+    "skills": ["AI", "Deep Learning", "NLP"]
+  },
+  {
+    "id": "M015",
+    "name": "Siddharth Jain",
+    "email": "siddharth.jain@example.com",
+    "department": "Electrical Engineering",
+    "year": "2nd",
+    "skills": ["Power Systems", "Control Systems", "MATLAB"]
+  },
+  {
+    "id": "M016",
+    "name": "Ananya Mishra",
+    "email": "ananya.mishra@example.com",
+    "department": "Chemical Engineering",
+    "year": "3rd",
+    "skills": ["Process Design", "Thermodynamics", "ChemCAD"]
+  },
+  {
+    "id": "M017",
+    "name": "Harsh Patel",
+    "email": "harsh.patel@example.com",
+    "department": "Information Technology",
+    "year": "4th",
+    "skills": ["Databases", "Cloud Security", "Python"]
+  },
+  {
+    "id": "M018",
+    "name": "Meera Iyer",
+    "email": "meera.iyer@example.com",
+    "department": "Biotechnology",
+    "year": "3rd",
+    "skills": ["Cell Biology", "Genomics", "Biostatistics"]
+  },
+  {
+    "id": "M019",
+    "name": "Rajat Choudhary",
+    "email": "rajat.choudhary@example.com",
+    "department": "Aerospace Engineering",
+    "year": "4th",
+    "skills": ["Aircraft Design", "Propulsion", "Flight Dynamics"]
+  },
+  {
+    "id": "M020",
+    "name": "Shreya Sen",
+    "email": "shreya.sen@example.com",
+    "department": "Computer Science",
+    "year": "2nd",
+    "skills": ["JavaScript", "Node.js", "Databases"]
+  }
+]

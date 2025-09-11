@@ -87,7 +87,7 @@ export default function StudentChat({ token, studentName }) {
   };
 
   return (
-    <div className="flex flex-col h-[75vh]">
+    <div className="flex flex-col h-[65vh] rounded-lg">
         <div className="p-4 border-b border-gray-200">
             <h2 className="text-xl font-bold text-gray-800 text-center">Student Counseling Chatbot</h2>
             <div className="flex justify-center gap-4 mt-4">
@@ -139,8 +139,8 @@ export default function StudentChat({ token, studentName }) {
 
         {/* Input Area */}
         {activeTab === "chat" && (
-            <div className="p-4 border-t border-gray-200 bg-white">
-                <div className="flex items-center gap-3">
+            <div className="p-4 border-t border-gray-200 bg-white rounded-b-lg">
+                <div className="flex items-center gap-3 rounded-b-lg">
                     <input
                         value={message}
                         onChange={(e) => setMessage(e.target.value)}
